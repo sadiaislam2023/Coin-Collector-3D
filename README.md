@@ -1,4 +1,3 @@
-# Coin-Collector-3D
 # Coin Collector 3D — Rainbow Runner
 
 A colorful 3D coin-collecting adventure game developed using **Python, PyOpenGL, and OpenGL**. Navigate through a vibrant 3D world, collect coins, avoid obstacles, and challenge yourself across multiple difficulty levels.
